@@ -1,2 +1,2 @@
-# Using RandomForestClassifier with GridSearchCV
+Using RandomForestClassifier with GridSearchCV
 
